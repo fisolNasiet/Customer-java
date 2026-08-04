@@ -17,7 +17,6 @@ public class Main {
             scanner.nextLine();
             switch (secim){
                 case 1:
-
                     System.out.print("Adınızı girin: ");
                     String ad = scanner.nextLine();
                     System.out.print("Soyadınızı girin: ");
