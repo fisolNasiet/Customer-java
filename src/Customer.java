@@ -1,5 +1,5 @@
 public class Customer {
-    private int customerNo;
+    private final int customerNo;
     private String name;
     private String surName;
     private String email;
